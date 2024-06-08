@@ -1,7 +1,8 @@
 # Kanban Board
 ## Drag Column and Card feature
 
-This is react project. View was bootstrapped with [View Kanban board Demo](hhttps://andsus.github.io/kanban/).
+This is react project Kanban board clone.
+- [View Kanban board Demo](https://andsus.github.io/kanban/).
 
 ## Available Scripts
 

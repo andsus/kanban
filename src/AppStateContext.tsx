@@ -117,17 +117,32 @@ const appData: AppState = {
     {
       id: "0",
       text: "To Do",
-      tasks: [{ id: "c0", text: "Generate app scaffold" }]
+      tasks: [
+        { id: "c0", text: "Operation Management" },
+        { id: "c0", text: "Prioritization" },
+        { id: "c0", text: "Delegation" },
+        { id: "c0", text: "Communication" },
+      ]
     },
     {
       id: "1",
       text: "In Progress",
-      tasks: [{ id: "c2", text: "Learn Typescript" }]
+      tasks: [
+        { id: "c1", text: "Application Development" },
+        { id: "c1", text: "Stay Update" },
+        { id: "c1", text: "Standardization" },
+      
+      ]
     },
     {
       id: "2",
       text: "Done",
-      tasks: [{ id: "c3", text: "Begin to use static typing" }]
+      tasks: [
+        { id: "c2", text: "Leadership and Team Management" },
+        { id: "c2", text: "Motivation" },
+        { id: "c2", text: "Conflict Escalation" },
+      
+      ]
     }
   ]
 }
