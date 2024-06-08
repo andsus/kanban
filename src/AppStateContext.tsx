@@ -119,18 +119,18 @@ const appData: AppState = {
       text: "To Do",
       tasks: [
         { id: "c0", text: "Operation Management" },
-        { id: "c0", text: "Prioritization" },
-        { id: "c0", text: "Delegation" },
-        { id: "c0", text: "Communication" },
+        { id: "c1", text: "Prioritization" },
+        { id: "c2", text: "Delegation" },
+        { id: "c3", text: "Communication" },
       ]
     },
     {
       id: "1",
       text: "In Progress",
       tasks: [
-        { id: "c1", text: "Application Development" },
-        { id: "c1", text: "Stay Update" },
-        { id: "c1", text: "Standardization" },
+        { id: "c4", text: "Application Development" },
+        { id: "c5", text: "Stay Update" },
+        { id: "c6", text: "Standardization" },
       
       ]
     },
@@ -138,9 +138,9 @@ const appData: AppState = {
       id: "2",
       text: "Done",
       tasks: [
-        { id: "c2", text: "Leadership and Team Management" },
-        { id: "c2", text: "Motivation" },
-        { id: "c2", text: "Conflict Escalation" },
+        { id: "c7", text: "Leadership and Team Management" },
+        { id: "c8", text: "Motivation" },
+        { id: "c9", text: "Conflict Escalation" },
       
       ]
     }
