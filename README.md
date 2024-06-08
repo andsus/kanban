@@ -1,5 +1,5 @@
 # Kanban Board
-## Drag Column and Card feature
+## Drag and Drop Column and Card.
 
 This is react project Kanban board clone.
 - [View Kanban board Demo](https://andsus.github.io/kanban/).
