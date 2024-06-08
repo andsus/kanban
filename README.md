@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Kanban Board
+## Drag Column and Card feature
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is react project. View was bootstrapped with [View Kanban board Demo](hhttps://andsus.github.io/kanban/).
 
 ## Available Scripts
 
